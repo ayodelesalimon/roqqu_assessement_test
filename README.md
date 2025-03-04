@@ -113,8 +113,8 @@ The app supports both light and dark themes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ayodelesalimon/roquu_assessement_test.git
-cd roquu_assessement_test
+git clone https://github.com/ayodelesalimon/roqqu_assessement_test.git
+cd roqqu_assessement_test
 ```
 
 2. Install dependencies:
