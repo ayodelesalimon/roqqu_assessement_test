@@ -9,7 +9,6 @@ import '../blocs/orderbook/orderbook_bloc.dart';
 import '../blocs/orderbook/orderbook_event.dart';
 import '../blocs/trade/trade_bloc.dart';
 import '../blocs/trade/trade_event.dart';
-import '../widgets/trading_form.dart';
 import '../widgets/trading_header.dart';
 import '../widgets/trading_tabs.dart';
 
@@ -58,11 +57,7 @@ class _TradingPageState extends State<TradingPage> {
                         ],
                       ),
                     ),
-                    // Trading form (25% width)
-                    // const Expanded(
-                    //   flex: 1,
-                    //   child: TradingForm(),
-                    // ),
+                    
                   ],
                 ),
               ),
